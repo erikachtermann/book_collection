@@ -7,13 +7,13 @@
 #   Character.create(name: "Luke", movie: movies.first)
 #
 Book.create!([
-  {title: "The life of a turtle"}
-  {title: "book2"}
-  {title: "book3"}
-  {title: "book4"}
-  {title: "book5"}
-  {title: "book6"}
-  {title: "book7"}
-  {title: "book8"}
+  {title: "The life of a turtle"},
+  {title: "book2"},
+  {title: "book3"},
+  {title: "book4"},
+  {title: "book5"},
+  {title: "book6"},
+  {title: "book7"},
+  {title: "book8"},
   {title: "book9"}
 ])
